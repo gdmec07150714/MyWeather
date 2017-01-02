@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="weather_info" type="id" />
+    <item name="temperatures" type="id" />
+    <item name="weather" type="id" />
+    <item name="date" type="id" />
+    <item name="week" type="id" />
+    <item name="weather_icon" type="id" />
+</resources>
